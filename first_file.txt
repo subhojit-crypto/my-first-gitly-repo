@@ -1,1 +1,3 @@
 Hello Gitly!
+This is the main reality version of the file.
+I added this line on the new-feature branch.
