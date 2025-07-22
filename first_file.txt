@@ -6,3 +6,7 @@ This is the main reality version of the file.
 I added this line on the new-feature branch.
 This line was added after the first push.
 This line was added directly on GitHub.
+I added this line on the new-feature branch.
+This is the final touch for the new feature.
+Adding more awesome content
+
