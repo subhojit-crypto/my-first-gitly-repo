@@ -8,5 +8,7 @@ This line was added after the first push.
 This line was added directly on GitHub.
 I added this line on the new-feature branch.
 This is the final touch for the new feature.
+Trying this new line
+Adding more awesome content
 Adding more awesome content
 
